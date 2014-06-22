@@ -1,0 +1,67 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+      <TextView
+     android:layout_x="10px"
+     android:layout_y="10px"
+     android:text="@string/app_name"
+     android:layout_width="wrap_content"
+     android:textSize="22sp"
+     android:layout_height="wrap_content" />
+      
+       <ImageView
+     android:layout_x="10px"
+     android:layout_y="110px"
+     android:layout_width="wrap_content"
+     android:src="@drawable/desert"
+     android:layout_height="wrap_content" />
+       
+        <ImageView
+     android:layout_x="250px"
+     android:layout_y="150px"
+     android:layout_width="wrap_content"
+     android:src="@drawable/ic_launcher"
+     android:layout_height="wrap_content" />
+        
+        
+        <TextView
+     android:layout_x="20px"
+     android:layout_y="350px"
+     android:text="androidhub4you.com"
+     android:layout_width="wrap_content"
+     android:textSize="30sp"
+     android:layout_height="wrap_content" />
+       
+    <!-- <Button 
+     android:id="@+id/backbutton"
+     android:text="Continue"
+     android:layout_x="10px"
+     android:layout_y="5px"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content" />
+    <TextView
+     android:layout_x="10px"
+     android:layout_y="110px"
+     android:text="User Name"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content" />
+    <EditText
+     android:layout_x="150px"
+     android:layout_y="100px"
+     android:width="100px"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content" />
+    <TextView
+     android:layout_x="10px"
+     android:layout_y="160px"
+     android:text="Password"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content" />
+     <EditText
+     android:layout_x="150px"
+     android:layout_y="150px"
+     android:width="100px"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content" /> -->
+</AbsoluteLayout>
